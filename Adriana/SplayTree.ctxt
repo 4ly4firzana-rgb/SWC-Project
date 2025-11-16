@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SplayTree
+comment1.params=value
+comment1.target=void\ insert(int)
+comment2.params=node\ value
+comment2.target=SplayTree.Node\ insert(SplayTree.Node,\ int)
+comment3.params=value
+comment3.target=void\ splay(int)
+comment4.params=root\ value
+comment4.target=SplayTree.Node\ splay(SplayTree.Node,\ int)
+comment5.params=node
+comment5.target=SplayTree.Node\ rotateRight(SplayTree.Node)
+comment6.params=node
+comment6.target=SplayTree.Node\ rotateLeft(SplayTree.Node)
+comment7.params=value
+comment7.target=boolean\ search(int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

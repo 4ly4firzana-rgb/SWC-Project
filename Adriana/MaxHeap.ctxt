@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MaxHeap
+comment1.params=
+comment1.target=MaxHeap()
+comment2.params=value
+comment2.target=void\ insert(int)
+comment3.params=
+comment3.target=int\ extractMax()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MinHeap
+comment1.params=
+comment1.target=MinHeap()
+comment2.params=value
+comment2.target=void\ insert(int)
+comment3.params=
+comment3.target=int\ extractMin()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
